@@ -42,10 +42,10 @@ button:hover, a:hover {
 </head>
 <body>
 
-<h2 style="text-align:center">User Profile Card</h2>
+<!-- <h2 style="text-align:center">User Profile Card</h2> -->
 
 <div class="card">
-  <img src="/shyam.jpg" alt="John" style="width:100%">
+  <img src="shyam.jpg" alt="John" style="width:100%">
   <h1>Shyamsundar</h1>
   <p class="title">Full Stack Web developer</p>
   <p>Singapore</p>
